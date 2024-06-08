@@ -1,0 +1,1 @@
+# liyanbin001-A-Drift-Detection-Method-for-Industrial-Images-Based-on-a-Defect-Segmentation-Model
